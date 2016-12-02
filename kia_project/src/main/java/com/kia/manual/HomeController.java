@@ -1,4 +1,4 @@
-package com.kia.web;
+package com.kia.manual;
 
 import java.text.DateFormat;
 import java.util.Date;
