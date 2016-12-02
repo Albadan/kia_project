@@ -1,0 +1,1 @@
+<div class="right">RIGHT: ${serverTime}</div>
